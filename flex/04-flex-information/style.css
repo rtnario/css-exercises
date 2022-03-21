@@ -10,6 +10,22 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
+  margin: 32px;
+}
+
+.plants {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.barberry,
+.chilli,
+.pepper,
+.saffron {
+  width: 200px;
+  text-align: center;
 }
 
 /* do not edit this footer */
